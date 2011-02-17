@@ -1,6 +1,6 @@
-package com.example.gwtpresentation.client.mvp;
+package com.feelgoodinc.samples.gwtpresentation.client.mvp;
 
-import com.example.gwtpresentation.client.place.SlidePlace;
+import com.feelgoodinc.samples.gwtpresentation.client.place.SlidePlace;
 import com.google.gwt.place.shared.PlaceHistoryMapper;
 import com.google.gwt.place.shared.WithTokenizers;
 

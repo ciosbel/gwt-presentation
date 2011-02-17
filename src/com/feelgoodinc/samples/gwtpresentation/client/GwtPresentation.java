@@ -1,9 +1,9 @@
-package com.example.gwtpresentation.client;
+package com.feelgoodinc.samples.gwtpresentation.client;
 
-import com.example.gwtpresentation.client.mvp.AppPlaceHistoryMapper;
-import com.example.gwtpresentation.client.mvp.SlideActivityMapper;
-import com.example.gwtpresentation.client.place.SlidePlace;
-import com.example.gwtpresentation.client.ui.Slide;
+import com.feelgoodinc.samples.gwtpresentation.client.mvp.AppPlaceHistoryMapper;
+import com.feelgoodinc.samples.gwtpresentation.client.mvp.SlideActivityMapper;
+import com.feelgoodinc.samples.gwtpresentation.client.place.SlidePlace;
+import com.feelgoodinc.samples.gwtpresentation.client.ui.Slide;
 import com.google.gwt.activity.shared.ActivityManager;
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;

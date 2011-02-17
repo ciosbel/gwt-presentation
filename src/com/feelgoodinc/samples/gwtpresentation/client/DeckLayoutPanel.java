@@ -1,4 +1,4 @@
-package com.example.gwtpresentation.client;
+package com.feelgoodinc.samples.gwtpresentation.client;
 
 import com.google.gwt.dom.client.Document;
 import com.google.gwt.dom.client.Style.Unit;

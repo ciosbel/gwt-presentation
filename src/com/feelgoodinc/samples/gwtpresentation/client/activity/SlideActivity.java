@@ -1,8 +1,8 @@
-package com.example.gwtpresentation.client.activity;
+package com.feelgoodinc.samples.gwtpresentation.client.activity;
 
-import com.example.gwtpresentation.client.ClientFactory;
-import com.example.gwtpresentation.client.place.SlidePlace;
-import com.example.gwtpresentation.client.ui.Slide;
+import com.feelgoodinc.samples.gwtpresentation.client.ClientFactory;
+import com.feelgoodinc.samples.gwtpresentation.client.place.SlidePlace;
+import com.feelgoodinc.samples.gwtpresentation.client.ui.Slide;
 import com.google.gwt.activity.shared.AbstractActivity;
 import com.google.gwt.event.shared.EventBus;
 import com.google.gwt.user.client.ui.AcceptsOneWidget;

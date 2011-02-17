@@ -1,8 +1,8 @@
-package com.example.gwtpresentation.client;
+package com.feelgoodinc.samples.gwtpresentation.client;
 
 import java.util.List;
 
-import com.example.gwtpresentation.client.ui.Slide;
+import com.feelgoodinc.samples.gwtpresentation.client.ui.Slide;
 import com.google.gwt.event.shared.EventBus;
 import com.google.gwt.place.shared.PlaceController;
 
