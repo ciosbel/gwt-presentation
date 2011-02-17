@@ -1,0 +1,17 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+
+	<g:HTMLPanel>
+	  <div class="slide">
+	    <section class="center intro">
+	      <hgroup>
+	        <h1>HTML5*</h1>
+	        <h2>Web Development to the next level</h2>
+	      </hgroup>
+	      <p style="font-size: 16px;">*Including other next generation technologies of the Web Development stack</p>
+	    </section>
+	  </div>
+	</g:HTMLPanel>
+
+</ui:UiBinder>

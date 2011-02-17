@@ -1,0 +1,12 @@
+war/WEB-INF/classes
+war/WEB-INF/lib
+war/WEB-INF/deploy
+war/gwtpresentation
+tomcat
+www-test
+*.war
+reports
+.settings
+.classpath
+.gwt
+.project
