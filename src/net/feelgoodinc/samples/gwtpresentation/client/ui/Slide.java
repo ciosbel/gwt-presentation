@@ -1,4 +1,4 @@
-package com.feelgoodinc.samples.gwtpresentation.client.ui;
+package net.feelgoodinc.samples.gwtpresentation.client.ui;
 
 import com.google.gwt.user.client.ui.IsWidget;
 

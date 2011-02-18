@@ -1,4 +1,4 @@
-package com.feelgoodinc.samples.gwtpresentation.client.place;
+package net.feelgoodinc.samples.gwtpresentation.client.place;
 
 import com.google.gwt.place.shared.Place;
 import com.google.gwt.place.shared.PlaceTokenizer;

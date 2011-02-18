@@ -1,8 +1,9 @@
-package com.feelgoodinc.samples.gwtpresentation.client.mvp;
+package net.feelgoodinc.samples.gwtpresentation.client.mvp;
 
-import com.feelgoodinc.samples.gwtpresentation.client.ClientFactory;
-import com.feelgoodinc.samples.gwtpresentation.client.activity.SlideActivity;
-import com.feelgoodinc.samples.gwtpresentation.client.place.SlidePlace;
+import net.feelgoodinc.samples.gwtpresentation.client.ClientFactory;
+import net.feelgoodinc.samples.gwtpresentation.client.activity.SlideActivity;
+import net.feelgoodinc.samples.gwtpresentation.client.place.SlidePlace;
+
 import com.google.gwt.activity.shared.Activity;
 import com.google.gwt.activity.shared.ActivityMapper;
 import com.google.gwt.place.shared.Place;

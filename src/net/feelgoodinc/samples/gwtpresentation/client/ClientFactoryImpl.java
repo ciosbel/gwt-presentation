@@ -1,11 +1,12 @@
-package com.feelgoodinc.samples.gwtpresentation.client;
+package net.feelgoodinc.samples.gwtpresentation.client;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.feelgoodinc.samples.gwtpresentation.client.ui.Slide;
-import com.feelgoodinc.samples.gwtpresentation.client.ui.Slide1;
-import com.feelgoodinc.samples.gwtpresentation.client.ui.Slide2;
+import net.feelgoodinc.samples.gwtpresentation.client.ui.Slide;
+import net.feelgoodinc.samples.gwtpresentation.client.ui.Slide1;
+import net.feelgoodinc.samples.gwtpresentation.client.ui.Slide2;
+
 import com.google.gwt.event.shared.EventBus;
 import com.google.gwt.event.shared.SimpleEventBus;
 import com.google.gwt.place.shared.PlaceController;
