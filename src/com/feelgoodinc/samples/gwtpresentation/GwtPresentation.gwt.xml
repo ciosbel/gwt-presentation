@@ -7,7 +7,10 @@
   <inherits name="com.google.gwt.activity.Activity"/>
   <inherits name="com.google.gwt.resources.Resources" />
 
-  <entry-point class='com.example.gwtpresentation.client.GwtPresentation'/>
+  <entry-point class='com.feelgoodinc.samples.gwtpresentation.client.GwtPresentation'/>
+
+  <set-property name="user.agent" value="safari" />
+  
 
   <source path='client'/>
   <source path='shared'/>

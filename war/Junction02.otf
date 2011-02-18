@@ -1,0 +1,1053 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+ <link rel="icon" type="image/vnd.microsoft.icon" href="http://www.gstatic.com/codesite/ph/images/phosting.ico">
+ 
+ <script type="text/javascript">
+ 
+ 
+ 
+ var codesite_token = "c82c23a026f7d67c0d5d154e0fc31fe8";
+ 
+ 
+ var logged_in_user_email = "andrew586@gmail.com";
+ 
+ 
+ var relative_base_url = "";
+ 
+ </script>
+ 
+ 
+ <title>Junction02.otf - 
+ sfeir -
+ 
+ Project Hosting on Google Code</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+ <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" >
+ 
+ <meta name="ROBOTS" content="NOARCHIVE">
+ 
+ <link type="text/css" rel="stylesheet" href="http://www.gstatic.com/codesite/ph/9637297800994348586/css/ph_core.css">
+ 
+ <link type="text/css" rel="stylesheet" href="http://www.gstatic.com/codesite/ph/9637297800994348586/css/ph_detail.css" >
+ 
+ 
+ <link type="text/css" rel="stylesheet" href="http://www.gstatic.com/codesite/ph/9637297800994348586/css/d_sb_20080522.css" >
+ 
+ 
+ 
+<!--[if IE]>
+ <link type="text/css" rel="stylesheet" href="http://www.gstatic.com/codesite/ph/9637297800994348586/css/d_ie.css" >
+<![endif]-->
+ <style type="text/css">
+ .menuIcon.off { background: no-repeat url(http://www.gstatic.com/codesite/ph/images/dropdown_sprite.gif) 0 -42px }
+ .menuIcon.on { background: no-repeat url(http://www.gstatic.com/codesite/ph/images/dropdown_sprite.gif) 0 -28px }
+ .menuIcon.down { background: no-repeat url(http://www.gstatic.com/codesite/ph/images/dropdown_sprite.gif) 0 0; }
+ 
+ 
+ 
+  tr.inline_comment {
+ background: #fff;
+ vertical-align: top;
+ }
+ div.draft, div.published {
+ padding: .3em;
+ border: 1px solid #999; 
+ margin-bottom: .1em;
+ font-family: arial, sans-serif;
+ max-width: 60em;
+ }
+ div.draft {
+ background: #ffa;
+ } 
+ div.published {
+ background: #e5ecf9;
+ }
+ div.published .body, div.draft .body {
+ padding: .5em .1em .1em .1em;
+ max-width: 60em;
+ white-space: pre-wrap;
+ white-space: -moz-pre-wrap;
+ white-space: -pre-wrap;
+ white-space: -o-pre-wrap;
+ word-wrap: break-word;
+ font-size: 1em;
+ }
+ div.draft .actions {
+ margin-left: 1em;
+ font-size: 90%;
+ }
+ div.draft form {
+ padding: .5em .5em .5em 0;
+ }
+ div.draft textarea, div.published textarea {
+ width: 95%;
+ height: 10em;
+ font-family: arial, sans-serif;
+ margin-bottom: .5em;
+ }
+
+ 
+ .nocursor, .nocursor td, .cursor_hidden, .cursor_hidden td {
+ background-color: white;
+ height: 2px;
+ }
+ .cursor, .cursor td {
+ background-color: darkblue;
+ height: 2px;
+ display: '';
+ }
+ 
+ 
+.list {
+ border: 1px solid white;
+ margin-bottom:0;
+}
+
+ </style>
+</head>
+<body class="t4">
+ <script type="text/javascript">
+ var _gaq = _gaq || [];
+ _gaq.push(
+ ['siteTracker._setAccount', 'UA-18071-1'],
+ ['siteTracker._trackPageview']);
+ 
+ _gaq.push(
+ ['projectTracker._setAccount', 'UA-1934572-7'],
+ ['projectTracker._trackPageview']);
+ 
+ (function() {
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+ })();
+ </script>
+<div class="headbg">
+ <div id="gaia">
+ 
+ <span>
+ 
+ 
+ <b>andrew586@gmail.com</b>
+ 
+ 
+ | <a href="/u/@UBNVQVNYBRVDWgh0/" id="projects-dropdown" onclick="return false;"
+ ><u>My favorites</u> <small>&#9660;</small></a>
+ | <a href="/u/@UBNVQVNYBRVDWgh0/" onclick="_CS_click('/gb/ph/profile');" 
+ title="Profile, Updates, and Settings"
+ ><u>Profile</u></a>
+ | <a href="https://www.google.com/accounts/Logout?continue=http%3A%2F%2Fcode.google.com%2Fp%2Fsfeir%2Fsource%2Fbrowse%2Ftrunk%2Fhtml5-slides%2Fwar%2Fsrc%2FJunction02.otf" 
+ onclick="_CS_click('/gb/ph/signout');"
+ ><u>Sign out</u></a>
+ 
+ </span>
+
+ </div>
+ <div class="gbh" style="left: 0pt;"></div>
+ <div class="gbh" style="right: 0pt;"></div>
+ 
+ 
+ <div style="height: 1px"></div>
+<!--[if lte IE 7]>
+<div style="text-align:center;">
+Your version of Internet Explorer is not supported. Try a browser that
+contributes to open source, such as <a href="http://www.firefox.com">Firefox</a>,
+<a href="http://www.google.com/chrome">Google Chrome</a>, or
+<a href="http://code.google.com/chrome/chromeframe/">Google Chrome Frame</a>.
+</div>
+<![endif]-->
+
+
+
+
+ <table style="padding:0px; margin: 0px 0px 10px 0px; width:100%" cellpadding="0" cellspacing="0">
+ <tr style="height: 58px;">
+ 
+ <td id="plogo">
+ <a href="/p/sfeir/">
+ 
+ 
+ <img src="/p/sfeir/logo?cct=1296659180" alt="Logo">
+ 
+ </a>
+ </td>
+ 
+ <td style="padding-left: 0.5em">
+ 
+ <div id="pname">
+ <a href="/p/sfeir/">sfeir</a>
+ </div>
+ <div id="psum">
+ <a id="project_summary_link" href="/p/sfeir/" >SFEIR Contributions to the Open Source Community</a>
+ 
+ </div>
+ 
+ </td>
+ <td style="white-space:nowrap;text-align:right; vertical-align:bottom;">
+ 
+ <form action="/hosting/search">
+ <input size="30" name="q" value="" type="text">
+ <input type="submit" name="projectsearch" value="Search projects" >
+ </form>
+ 
+ </tr>
+ </table>
+
+</div>
+
+ 
+<div id="mt" class="gtb"> 
+ <a href="/p/sfeir/" class="tab ">Project&nbsp;Home</a> 
+ 
+ 
+ 
+ 
+ <a href="/p/sfeir/downloads/list" class="tab ">Downloads</a>
+ 
+ 
+ 
+ 
+ 
+ <a href="/p/sfeir/w/list" class="tab ">Wiki</a>
+ 
+ 
+ 
+ 
+ 
+ <a href="/p/sfeir/issues/list"
+ class="tab ">Issues</a>
+ 
+ 
+ 
+ 
+ 
+ <a href="/p/sfeir/source/checkout"
+ class="tab active">Source</a>
+ 
+ 
+ 
+ <div class=gtbc></div>
+</div>
+<table cellspacing="0" cellpadding="0" width="100%" align="center" border="0" class="st">
+ <tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ <td class="subt">
+ <div class="st2">
+ <div class="isf">
+ 
+ 
+ 
+ <span class="inst1"><a href="/p/sfeir/source/checkout">Checkout</a></span> &nbsp;
+ <span class="inst2"><a href="/p/sfeir/source/browse/">Browse</a></span> &nbsp;
+ <span class="inst3"><a href="/p/sfeir/source/list">Changes</a></span> &nbsp;
+ 
+ <form action="http://www.google.com/codesearch" method="get" style="display:inline"
+ onsubmit="document.getElementById('codesearchq').value = document.getElementById('origq').value + ' package:http://sfeir\\.googlecode\\.com'">
+ <input type="hidden" name="q" id="codesearchq" value="">
+ <input type="text" maxlength="2048" size="38" id="origq" name="origq" value="" title="Google Code Search" style="font-size:92%">&nbsp;<input type="submit" value="Search Trunk" name="btnG" style="font-size:92%">
+ 
+ 
+ 
+ </form>
+ </div>
+</div>
+
+ </td>
+ 
+ 
+ 
+ <td align="right" valign="top" class="bevel-right"></td>
+ </tr>
+</table>
+<script type="text/javascript">
+ var cancelBubble = false;
+ function _go(url) { document.location = url; }
+</script>
+
+
+<div id="maincol"
+ 
+>
+
+ 
+<!-- IE -->
+
+
+
+
+<div class="collapse">
+<div id="colcontrol">
+<style type="text/css">
+ #file_flipper { white-space: nowrap; padding-right: 2em; }
+ #file_flipper.hidden { display: none; }
+ #file_flipper .pagelink { color: #0000CC; text-decoration: underline; }
+ #file_flipper #visiblefiles { padding-left: 0.5em; padding-right: 0.5em; }
+</style>
+<table id="nav_and_rev" class="list"
+ cellpadding="0" cellspacing="0" width="100%">
+ <tr>
+ 
+ <td nowrap="nowrap" class="src_crumbs src_nav" width="33%">
+ <strong class="src_nav">Source path:&nbsp;</strong>
+ <span id="crumb_root">
+ 
+ <a href="/p/sfeir/source/browse/">svn</a>/&nbsp;</span>
+ <span id="crumb_links" class="ifClosed"><a href="/p/sfeir/source/browse/trunk/">trunk</a><span class="sp">/&nbsp;</span><a href="/p/sfeir/source/browse/trunk/html5-slides/">html5-slides</a><span class="sp">/&nbsp;</span><a href="/p/sfeir/source/browse/trunk/html5-slides/war/">war</a><span class="sp">/&nbsp;</span><a href="/p/sfeir/source/browse/trunk/html5-slides/war/src/">src</a><span class="sp">/&nbsp;</span>Junction02.otf</span>
+ 
+ 
+
+ </td>
+ 
+ 
+ <td nowrap="nowrap" width="33%" align="right">
+ <table cellpadding="0" cellspacing="0" style="font-size: 100%"><tr>
+ 
+ 
+ <td class="flipper"><b>r724</b></td>
+ 
+ </tr></table>
+ </td> 
+ </tr>
+</table>
+
+<div class="fc">
+ 
+ 
+ <p><em>
+ 
+ This file is not plain text (only UTF-8 and Latin-1
+ text encodings are currently supported).
+ 
+ </em></p>
+ 
+ 
+ <div id="log">
+ <div style="text-align:right">
+ <a class="ifCollapse" href="#" onclick="_toggleMeta('', 'p', 'sfeir', this)">Show details</a>
+ <a class="ifExpand" href="#" onclick="_toggleMeta('', 'p', 'sfeir', this)">Hide details</a>
+ </div>
+ <div class="ifExpand">
+ 
+ <div class="pmeta_bubble_bg" style="border:1px solid white">
+ <div class="round4"></div>
+ <div class="round2"></div>
+ <div class="round1"></div>
+ <div class="box-inner">
+ <div id="changelog">
+ <p>Change log</p>
+ <div>
+ <a href="/p/sfeir/source/detail?spec=svn724&r=106">r106</a>
+ by diaz.salvador
+ on Apr 20, 2010
+ &nbsp; <a href="/p/sfeir/source/diff?spec=svn724&r=106&amp;format=side&amp;path=/trunk/html5-slides/war/src/Junction02.otf&amp;old_path=/trunk/html5-slides/war/src/Junction02.otf&amp;old=">Diff</a>
+ </div>
+ <pre>* Ajout des resources externes</pre>
+ </div>
+ 
+ 
+ 
+ 
+ 
+ 
+ <script type="text/javascript">
+ var detail_url = '/p/sfeir/source/detail?r=106&spec=svn724';
+ var publish_url = '/p/sfeir/source/detail?r=106&spec=svn724#publish';
+ // describe the paths of this revision in javascript.
+ var changed_paths = [];
+ var changed_urls = [];
+ 
+ changed_paths.push('/trunk/html5-slides/war/src');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/Junction02.otf');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/Junction02.otf?r\x3d106\x26spec\x3dsvn724');
+ 
+ var selected_path = '/trunk/html5-slides/war/src/Junction02.otf';
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/LeagueGothic.otf');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/LeagueGothic.otf?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/argentina.ogg');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/argentina.ogg?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/canvasphoto');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/canvasphoto/7.jpg');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/7.jpg?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/canvasphoto/8.jpg');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/8.jpg?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/canvasphoto/9.jpg');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/9.jpg?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/canvasphoto/bg.jpg');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/bg.jpg?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/canvasphoto/canvasElement.js');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/canvasElement.js?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/canvasphoto/canvasImg.js');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/canvasImg.js?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/canvasphoto/excanvas.js');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/excanvas.js?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/canvasphoto/index.html');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/index.html?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/canvasphoto/utilities.js');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/utilities.js?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/chrome.png');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/chrome.png?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/chrome_japan.mp4');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/chrome_japan.mp4?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/chrome_os_video.mp4');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/chrome_os_video.mp4?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/compile');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/compile?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/dwd1.png');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/dwd1.png?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/france.ogg');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/france.ogg?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/google_latitude.mp4');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/google_latitude.mp4?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/google_o3d.mp4');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/google_o3d.mp4?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/googleplex.mp4');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/googleplex.mp4?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/gray_lines_bg.png');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/gray_lines_bg.png?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/italia.mp3');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/italia.mp3?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/italia.ogg');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/italia.ogg?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/magpie.png');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/magpie.png?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/opacity_bg.jpg');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/opacity_bg.jpg?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/refresh.png');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/refresh.png?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/scrollbar.css');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/scrollbar.css?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/slides_manifest.php');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/slides_manifest.php?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/star.mp3');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/star.mp3?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/webgl');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/webgl?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/webgl/angeles.js');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/webgl/angeles.js?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/webgl/context.js');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/webgl/context.js?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/webgl/demo.js');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/webgl/demo.js?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/webgl/matrix4x4.js');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/webgl/matrix4x4.js?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/webgl/san_angeles.html');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/webgl/san_angeles.html?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/webworkers');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/webworkers?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/webworkers/Worker.js');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/webworkers/Worker.js?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/webworkers/annealing.js');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/webworkers/annealing.js?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/webworkers/ground.js');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/webworkers/ground.js?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/webworkers/main.js');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/webworkers/main.js?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/webworkers/point.png');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/webworkers/point.png?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/webworkers/points.js');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/webworkers/points.js?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/webworkers/prime.js');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/webworkers/prime.js?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ changed_paths.push('/trunk/html5-slides/war/src/zippy-plus.png');
+ changed_urls.push('/p/sfeir/source/browse/trunk/html5-slides/war/src/zippy-plus.png?r\x3d106\x26spec\x3dsvn724');
+ 
+ 
+ function getCurrentPageIndex() {
+ for (var i = 0; i < changed_paths.length; i++) {
+ if (selected_path == changed_paths[i]) {
+ return i;
+ }
+ }
+ }
+ function getNextPage() {
+ var i = getCurrentPageIndex();
+ if (i < changed_paths.length - 1) {
+ return changed_urls[i + 1];
+ }
+ return null;
+ }
+ function getPreviousPage() {
+ var i = getCurrentPageIndex();
+ if (i > 0) {
+ return changed_urls[i - 1];
+ }
+ return null;
+ }
+ function gotoNextPage() {
+ var page = getNextPage();
+ if (!page) {
+ page = detail_url;
+ }
+ window.location = page;
+ }
+ function gotoPreviousPage() {
+ var page = getPreviousPage();
+ if (!page) {
+ page = detail_url;
+ }
+ window.location = page;
+ }
+ function gotoDetailPage() {
+ window.location = detail_url;
+ }
+ function gotoPublishPage() {
+ window.location = publish_url;
+ }
+</script>
+
+ 
+ <style type="text/css">
+ #review_nav {
+ border-top: 3px solid white;
+ padding-top: 6px;
+ margin-top: 1em;
+ }
+ #review_nav td {
+ vertical-align: middle;
+ }
+ #review_nav select {
+ margin: .5em 0;
+ }
+ </style>
+ <div id="review_nav">
+ <table><tr><td>Go to:&nbsp;</td><td>
+ <select name="files_in_rev" onchange="window.location=this.value">
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src?r=106&amp;spec=svn724"
+ 
+ >/trunk/html5-slides/war/src</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/Junction02.otf?r=106&amp;spec=svn724"
+ selected="selected"
+ >...l5-slides/war/src/Junction02.otf</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/LeagueGothic.otf?r=106&amp;spec=svn724"
+ 
+ >...-slides/war/src/LeagueGothic.otf</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/argentina.ogg?r=106&amp;spec=svn724"
+ 
+ >...ml5-slides/war/src/argentina.ogg</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto?r=106&amp;spec=svn724"
+ 
+ >...html5-slides/war/src/canvasphoto</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/7.jpg?r=106&amp;spec=svn724"
+ 
+ >...slides/war/src/canvasphoto/7.jpg</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/8.jpg?r=106&amp;spec=svn724"
+ 
+ >...slides/war/src/canvasphoto/8.jpg</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/9.jpg?r=106&amp;spec=svn724"
+ 
+ >...slides/war/src/canvasphoto/9.jpg</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/bg.jpg?r=106&amp;spec=svn724"
+ 
+ >...lides/war/src/canvasphoto/bg.jpg</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/canvasElement.js?r=106&amp;spec=svn724"
+ 
+ >...src/canvasphoto/canvasElement.js</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/canvasImg.js?r=106&amp;spec=svn724"
+ 
+ >...war/src/canvasphoto/canvasImg.js</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/excanvas.js?r=106&amp;spec=svn724"
+ 
+ >.../war/src/canvasphoto/excanvas.js</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/index.html?r=106&amp;spec=svn724"
+ 
+ >...s/war/src/canvasphoto/index.html</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/canvasphoto/utilities.js?r=106&amp;spec=svn724"
+ 
+ >...war/src/canvasphoto/utilities.js</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/chrome.png?r=106&amp;spec=svn724"
+ 
+ >.../html5-slides/war/src/chrome.png</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/chrome_japan.mp4?r=106&amp;spec=svn724"
+ 
+ >...-slides/war/src/chrome_japan.mp4</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/chrome_os_video.mp4?r=106&amp;spec=svn724"
+ 
+ >...ides/war/src/chrome_os_video.mp4</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/compile?r=106&amp;spec=svn724"
+ 
+ >/trunk/html5-slides/war/src/compile</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/dwd1.png?r=106&amp;spec=svn724"
+ 
+ >...nk/html5-slides/war/src/dwd1.png</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/france.ogg?r=106&amp;spec=svn724"
+ 
+ >.../html5-slides/war/src/france.ogg</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/google_latitude.mp4?r=106&amp;spec=svn724"
+ 
+ >...ides/war/src/google_latitude.mp4</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/google_o3d.mp4?r=106&amp;spec=svn724"
+ 
+ >...l5-slides/war/src/google_o3d.mp4</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/googleplex.mp4?r=106&amp;spec=svn724"
+ 
+ >...l5-slides/war/src/googleplex.mp4</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/gray_lines_bg.png?r=106&amp;spec=svn724"
+ 
+ >...slides/war/src/gray_lines_bg.png</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/italia.mp3?r=106&amp;spec=svn724"
+ 
+ >.../html5-slides/war/src/italia.mp3</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/italia.ogg?r=106&amp;spec=svn724"
+ 
+ >.../html5-slides/war/src/italia.ogg</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/magpie.png?r=106&amp;spec=svn724"
+ 
+ >.../html5-slides/war/src/magpie.png</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/opacity_bg.jpg?r=106&amp;spec=svn724"
+ 
+ >...l5-slides/war/src/opacity_bg.jpg</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/refresh.png?r=106&amp;spec=svn724"
+ 
+ >...html5-slides/war/src/refresh.png</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/scrollbar.css?r=106&amp;spec=svn724"
+ 
+ >...ml5-slides/war/src/scrollbar.css</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/slides_manifest.php?r=106&amp;spec=svn724"
+ 
+ >...ides/war/src/slides_manifest.php</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/star.mp3?r=106&amp;spec=svn724"
+ 
+ >...nk/html5-slides/war/src/star.mp3</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/webgl?r=106&amp;spec=svn724"
+ 
+ >/trunk/html5-slides/war/src/webgl</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/webgl/angeles.js?r=106&amp;spec=svn724"
+ 
+ >...-slides/war/src/webgl/angeles.js</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/webgl/context.js?r=106&amp;spec=svn724"
+ 
+ >...-slides/war/src/webgl/context.js</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/webgl/demo.js?r=106&amp;spec=svn724"
+ 
+ >...ml5-slides/war/src/webgl/demo.js</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/webgl/matrix4x4.js?r=106&amp;spec=svn724"
+ 
+ >...lides/war/src/webgl/matrix4x4.js</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/webgl/san_angeles.html?r=106&amp;spec=svn724"
+ 
+ >...s/war/src/webgl/san_angeles.html</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/webworkers?r=106&amp;spec=svn724"
+ 
+ >.../html5-slides/war/src/webworkers</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/webworkers/Worker.js?r=106&amp;spec=svn724"
+ 
+ >...des/war/src/webworkers/Worker.js</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/webworkers/annealing.js?r=106&amp;spec=svn724"
+ 
+ >.../war/src/webworkers/annealing.js</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/webworkers/ground.js?r=106&amp;spec=svn724"
+ 
+ >...des/war/src/webworkers/ground.js</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/webworkers/main.js?r=106&amp;spec=svn724"
+ 
+ >...lides/war/src/webworkers/main.js</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/webworkers/point.png?r=106&amp;spec=svn724"
+ 
+ >...des/war/src/webworkers/point.png</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/webworkers/points.js?r=106&amp;spec=svn724"
+ 
+ >...des/war/src/webworkers/points.js</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/webworkers/prime.js?r=106&amp;spec=svn724"
+ 
+ >...ides/war/src/webworkers/prime.js</option>
+ 
+ <option value="/p/sfeir/source/browse/trunk/html5-slides/war/src/zippy-plus.png?r=106&amp;spec=svn724"
+ 
+ >...l5-slides/war/src/zippy-plus.png</option>
+ 
+ </select>
+ </td></tr></table>
+ 
+ 
+ 
+
+
+
+ 
+ </div>
+ 
+ 
+ </div>
+ <div class="round1"></div>
+ <div class="round2"></div>
+ <div class="round4"></div>
+ </div>
+ <div class="pmeta_bubble_bg" style="border:1px solid white">
+ <div class="round4"></div>
+ <div class="round2"></div>
+ <div class="round1"></div>
+ <div class="box-inner">
+ <div id="older_bubble">
+ <p>Older revisions</p>
+ 
+ <a href="/p/sfeir/source/list?path=/trunk/html5-slides/war/src/Junction02.otf&start=106">All revisions of this file</a>
+ </div>
+ </div>
+ <div class="round1"></div>
+ <div class="round2"></div>
+ <div class="round4"></div>
+ </div>
+ <div class="pmeta_bubble_bg" style="border:1px solid white">
+ <div class="round4"></div>
+ <div class="round2"></div>
+ <div class="round1"></div>
+ <div class="box-inner">
+ <div id="fileinfo_bubble">
+ <p>File info</p>
+ 
+ <div>Size: 17372 bytes</div>
+ 
+ <div><a href="http://sfeir.googlecode.com/svn/trunk/html5-slides/war/src/Junction02.otf">View raw file</a></div>
+ </div>
+ 
+ <div id="props">
+ <p>File properties</p>
+ <dl>
+ 
+ <dt>svn:mime-type</dt>
+ <dd>application/octet-stream</dd>
+ 
+ </dl>
+ </div>
+ 
+ </div>
+ <div class="round1"></div>
+ <div class="round2"></div>
+ <div class="round4"></div>
+ </div>
+ </div>
+ </div>
+
+
+</div>
+
+</div>
+</div>
+
+
+<script src="http://www.gstatic.com/codesite/ph/9637297800994348586/js/source_file_scripts.js"></script>
+
+ <script type="text/javascript" src="https://kibbles.googlecode.com/files/kibbles-1.3.3.comp.js"></script>
+ <script type="text/javascript">
+ var lastStop = null;
+ var initilized = false;
+ 
+ function updateCursor(next, prev) {
+ if (prev && prev.element) {
+ prev.element.className = 'cursor_stop cursor_hidden';
+ }
+ if (next && next.element) {
+ next.element.className = 'cursor_stop cursor';
+ lastStop = next.index;
+ }
+ }
+ 
+ function pubRevealed(data) {
+ updateCursorForCell(data.cellId, 'cursor_stop cursor_hidden');
+ if (initilized) {
+ reloadCursors();
+ }
+ }
+ 
+ function draftRevealed(data) {
+ updateCursorForCell(data.cellId, 'cursor_stop cursor_hidden');
+ if (initilized) {
+ reloadCursors();
+ }
+ }
+ 
+ function draftDestroyed(data) {
+ updateCursorForCell(data.cellId, 'nocursor');
+ if (initilized) {
+ reloadCursors();
+ }
+ }
+ function reloadCursors() {
+ kibbles.skipper.reset();
+ loadCursors();
+ if (lastStop != null) {
+ kibbles.skipper.setCurrentStop(lastStop);
+ }
+ }
+ // possibly the simplest way to insert any newly added comments
+ // is to update the class of the corresponding cursor row,
+ // then refresh the entire list of rows.
+ function updateCursorForCell(cellId, className) {
+ var cell = document.getElementById(cellId);
+ // we have to go two rows back to find the cursor location
+ var row = getPreviousElement(cell.parentNode);
+ row.className = className;
+ }
+ // returns the previous element, ignores text nodes.
+ function getPreviousElement(e) {
+ var element = e.previousSibling;
+ if (element.nodeType == 3) {
+ element = element.previousSibling;
+ }
+ if (element && element.tagName) {
+ return element;
+ }
+ }
+ function loadCursors() {
+ // register our elements with skipper
+ var elements = CR_getElements('*', 'cursor_stop');
+ var len = elements.length;
+ for (var i = 0; i < len; i++) {
+ var element = elements[i]; 
+ element.className = 'cursor_stop cursor_hidden';
+ kibbles.skipper.append(element);
+ }
+ }
+ function toggleComments() {
+ CR_toggleCommentDisplay();
+ reloadCursors();
+ }
+ function keysOnLoadHandler() {
+ // setup skipper
+ kibbles.skipper.addStopListener(
+ kibbles.skipper.LISTENER_TYPE.PRE, updateCursor);
+ // Set the 'offset' option to return the middle of the client area
+ // an option can be a static value, or a callback
+ kibbles.skipper.setOption('padding_top', 50);
+ // Set the 'offset' option to return the middle of the client area
+ // an option can be a static value, or a callback
+ kibbles.skipper.setOption('padding_bottom', 100);
+ // Register our keys
+ kibbles.skipper.addFwdKey("n");
+ kibbles.skipper.addRevKey("p");
+ kibbles.keys.addKeyPressListener(
+ 'u', function() { window.location = detail_url; });
+ kibbles.keys.addKeyPressListener(
+ 'r', function() { window.location = detail_url + '#publish'; });
+ 
+ kibbles.keys.addKeyPressListener('j', gotoNextPage);
+ kibbles.keys.addKeyPressListener('k', gotoPreviousPage);
+ 
+ 
+ }
+ </script>
+<script src="http://www.gstatic.com/codesite/ph/9637297800994348586/js/code_review_scripts.js"></script>
+<script type="text/javascript">
+ 
+ // the comment form template
+ var form = '<div class="draft"><div class="header"><span class="title">Draft comment:</span></div>' +
+ '<div class="body"><form onsubmit="return false;"><textarea id="$ID">$BODY</textarea><br>$ACTIONS</form></div>' +
+ '</div>';
+ // the comment "plate" template used for both draft and published comment "plates".
+ var draft_comment = '<div class="draft" ondblclick="$ONDBLCLICK">' +
+ '<div class="header"><span class="title">Draft comment:</span><span class="actions">$ACTIONS</span></div>' +
+ '<pre id="$ID" class="body">$BODY</pre>' +
+ '</div>';
+ var published_comment = '<div class="published">' +
+ '<div class="header"><span class="title"><a href="$PROFILE_URL">$AUTHOR:</a></span><div>' +
+ '<pre id="$ID" class="body">$BODY</pre>' +
+ '</div>';
+
+ function showPublishInstructions() {
+ var element = document.getElementById('review_instr');
+ if (element) {
+ element.className = 'opened';
+ }
+ }
+ function revsOnLoadHandler() {
+ // register our source container with the commenting code
+ var paths = {'svn724': '/trunk/html5-slides/war/src/Junction02.otf'}
+ CR_setup('', 'p', 'sfeir', '', 'svn724', paths,
+ 'c82c23a026f7d67c0d5d154e0fc31fe8', CR_BrowseIntegrationFactory);
+ // register our hidden ui elements with the code commenting code ui builder.
+ CR_registerLayoutElement('form', form);
+ CR_registerLayoutElement('draft_comment', draft_comment);
+ CR_registerLayoutElement('published_comment', published_comment);
+ 
+ CR_registerActivityListener(CR_ACTIVITY_TYPE.REVEAL_DRAFT_PLATE, showPublishInstructions);
+ 
+ CR_registerActivityListener(CR_ACTIVITY_TYPE.REVEAL_PUB_PLATE, pubRevealed);
+ CR_registerActivityListener(CR_ACTIVITY_TYPE.REVEAL_DRAFT_PLATE, draftRevealed);
+ CR_registerActivityListener(CR_ACTIVITY_TYPE.DISCARD_DRAFT_COMMENT, draftDestroyed);
+ 
+ 
+ var initilized = true;
+ reloadCursors();
+ }
+ window.onload = function() {keysOnLoadHandler(); revsOnLoadHandler();};
+
+</script>
+<script type="text/javascript" src="http://www.gstatic.com/codesite/ph/9637297800994348586/js/dit_scripts.js"></script>
+
+ 
+ 
+ <script type="text/javascript" src="http://www.gstatic.com/codesite/ph/9637297800994348586/js/core_scripts_20081103.js"></script>
+ <script type="text/javascript" src="/js/codesite_product_dictionary_ph.pack.04102009.js"></script>
+</div> 
+<div id="footer" dir="ltr">
+ 
+ <div class="text">
+ 
+ &copy;2010 Google -
+ <a href="/projecthosting/terms.html">Terms</a> -
+ <a href="http://www.google.com/privacy.html">Privacy</a> -
+ <a href="/p/support/">Project Hosting Help</a>
+ 
+ </div>
+</div>
+ <div class="hostedBy" style="margin-top: -20px;">
+ <span style="vertical-align: top;">Powered by <a href="http://code.google.com/projecthosting/">Google Project Hosting</a></span>
+ </div>
+ 
+ 
+
+
+ 
+ </body>
+</html>
+

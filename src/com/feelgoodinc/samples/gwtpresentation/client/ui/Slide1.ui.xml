@@ -2,13 +2,19 @@
 <ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
 	xmlns:g="urn:import:com.google.gwt.user.client.ui">
 
+  <ui:image field='intro' src='../resource/intro.jpg' />
+
+  <ui:style>
+  @sprite .background {
+    gwt-image: 'intro';
+    width: 100%;
+  }
+  </ui:style>
 	<g:HTMLPanel>
 
-		<div class="slide">
+		<div class="slide {style.background}">
 			<section class="center intro">
-				<p>Title goes here</p>
-				<p>Press<span class="key">→</span>to advance.
-				</p>
+				<h2>Title goes here</h2>
 				<p style="font-size: 25px;">Having issues seeing the presentation? Tell me!</p>
 			</section>
 		</div>

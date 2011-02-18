@@ -1,4 +1,4 @@
-.ladybug{
+.ladybug {
   background-image: url(ladybug.jpg);
 }
 
@@ -51,12 +51,12 @@ div.slide {
   /*display: none;*/
   position: absolute;
   overflow: hidden;
-  width: 900px;
-  height: 700px;
+  width: 800px;
+  height: 600px;
   left: 50%;
   top: 50%;
-  margin-left: -450px;
-  margin-top: -350px;
+  margin-left: -400px;
+  margin-top: -300px;
   background: -webkit-gradient(linear, left bottom, left top, from(#bbd), to(#fff) );
   -webkit-transition: margin 0.25s ease-in-out;
   background-color: #eee;
@@ -143,17 +143,16 @@ body.three-d div.slides {
 }
 
 /* Content */
-/*
 @font-face {
-  font-family: 'Junction';
-  src: url(src/Junction02.otf);
+  font-family: "Junction";
+  src: url(Junction02.otf) format("opentype");
 }
 
 @font-face {
-  font-family: 'LeagueGothic';
-  src: url(src/LeagueGothic.otf);
+  font-family: "LeagueGothic";
+  src: url(LeagueGothic.otf) format("opentype");
 }
-*/
+
 header {
   font-family: 'Junction';
   font-weight: normal;
